@@ -1,0 +1,1 @@
+Redirect site for our [grades trend visualizer](https://harker-hackers.github.io/grades-trend-visualizer). Since we changed the repo name while working on our project, we are having all users sent to our new location.
